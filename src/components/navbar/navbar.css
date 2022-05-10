@@ -46,6 +46,16 @@
   margin: 0 1rem;
   cursor: pointer;
 }
+.gpt3__navbar-links_container p:hover,
+.gpt3__navbar-links_container p:hover,
+.gpt3__navbar-sign p:hover {
+  color: var(--color-text);
+}
+
+.gpt3__navbar-menu_container button:hover,
+.gpt3__navbar-sign button:hover {
+  background-color: #ff0909;
+}
 
 .gpt3__navbar-sign button,
 .gpt3__navbar-menu_container button {
