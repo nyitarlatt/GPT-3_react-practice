@@ -47,7 +47,8 @@
   cursor: pointer;
 }
 .gpt3__navbar-links_container p:hover,
-.gpt3__navbar-links_container p:hover,
+.gpt3__navbar-menu_container-links > p:hover,
+.gpt3__navbar-menu_container-links-sign p:hover,
 .gpt3__navbar-sign p:hover {
   color: var(--color-text);
 }
